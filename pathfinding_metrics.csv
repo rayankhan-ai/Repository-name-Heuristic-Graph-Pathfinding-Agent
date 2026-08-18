@@ -1,0 +1,3 @@
+Algorithm,Runtime (seconds),Step Count,Expanded Nodes,Expanded Node Density
+Dijkstra,0.004807799588888884,39,318,0.795
+A*,0.0031886002980172634,39,214,0.535
